@@ -1,0 +1,20 @@
+{
+  "name": "ie-nasty",
+  "version": "1.0.0",
+  "authors": [
+    "Tristan Kenney <tristan@kenney.co>"
+  ],
+  "description": "",
+  "main": "ie-nasty.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
