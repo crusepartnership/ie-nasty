@@ -7,6 +7,13 @@
       return Object.prototype.hasOwnProperty.call(this, property);
     };
   }
- 
+
+
+  if (window.console === undefined) {
+    window.console = {
+      log: function() {
+      }
+    };
+  }
 
 })();
